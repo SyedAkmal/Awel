@@ -415,7 +415,7 @@ th {
   margin-bottom: 10px;
 }
 .page-top-banner h4 {
-  color: #000;
+  color: rgb(255, 255, 255);
   font-weight: 400;
 }
 
@@ -749,6 +749,7 @@ th {
   text-shadow: 2px 2px 8px #020202;
   display: inline-block;
   margin-right: 30px;
+  background: rgba(255, 255, 255, 0.9);
 }
 
 .dope-navbar .nav-brand:focus,
@@ -3322,7 +3323,7 @@ th {
 /*  CTA Styles 
 /* =================================== */
 .cta-section {
-  background: url(../img/banner2.jpg);
+  background: url(../img/featured_services.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
@@ -3337,7 +3338,7 @@ th {
   padding-bottom: 30px;
 }
 .cta-section .overlay-bg {
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.6);
 }
 
 /* =================================== */
@@ -3671,7 +3672,7 @@ th {
   color: #691cff;
 }
 .logo_img {
-  height: 200px;
-  padding: 10px;
+  height: 100px;
+  /* padding: 10px; */
   width: 100px;
 }
